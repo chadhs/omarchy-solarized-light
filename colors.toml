@@ -1,0 +1,43 @@
+# Solarized Light for Omarchy
+# Palette: https://ethanschoonover.com/solarized/
+#
+# Text pairs follow Schoonover's own reading pairs (light mode inversion):
+#   body text      base3:base00  (background:foreground)
+#   highlighted    base2:base01  (selection:selection_foreground,
+#                                 lighter_background:light_foreground)
+# Muted/comment tier is base1. Accents are the canonical Solarized eight.
+
+mode = "light"
+
+accent = "#268bd2"
+selection = "#eee8d5"
+muted = "#93a1a1"
+
+background = "#fdf6e3"
+dark_background = "#f9f2e0"
+darker_background = "#f2ecd8"
+lighter_background = "#eee8d5"
+
+foreground = "#657b83"
+dark_foreground = "#839496"
+light_foreground = "#586e75"
+bright_foreground = "#586e75"
+
+red = "#dc322f"
+yellow = "#b58900"
+orange = "#cb4b16"
+green = "#859900"
+cyan = "#2aa198"
+blue = "#268bd2"
+magenta = "#d33682"
+brown = "#6c71c4"
+
+bright_red = "#dc322f"
+bright_yellow = "#b58900"
+bright_green = "#859900"
+bright_cyan = "#2aa198"
+bright_blue = "#268bd2"
+bright_magenta = "#d33682"
+
+hyprland_active_border = "#268bd2 #2aa198 45deg"
+hyprland_inactive_border = "#eee8d5"
